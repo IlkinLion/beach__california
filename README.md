@@ -11,7 +11,7 @@
 Today I create with html and css file for Beach__california. I use here html and css tags. 
 ## ## RULES OF USE
 
-> *STEP-1:* `https://github.com/cavidsuleyman/Ballon-Game.git` <br/>
+> *STEP-1:* `https://github.com/IlkinLion/beach__california.git` <br/>
 > *STEP-2:*  enter the `Beach__california` folder that appears <br/>
 > *STEP-3:*  open the folder you are in in a text editor <br/>
 > *STEP-4:*  run the  all the`index.html` files in the main folder <br/>
